@@ -1,0 +1,6 @@
+# Ignore Doxygen-generated documentation directories
+Main/Doc/
+Tuning/Doc/
+
+# Ignore temporary files
+*.swp
