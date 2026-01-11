@@ -1,0 +1,26 @@
+<doxygenlayout version="1.0">
+  <navindex>
+    <tab type="mainpage" visible="yes" title="Home"/>
+    <tab type="classlist" visible="yes" title="Classes"
+         intro="List of documented classes in the source code:"/>
+    <tab type="filelist" visible="yes" title="Files"
+         intro="List of documented files in the source code:"/>
+  </navindex>
+  <class>
+    <includes visible="yes"/>
+    <detaileddescription title="Description"/>
+    <memberdef>
+      <functions title="Functions"/>
+    </memberdef>
+  </class>
+  <file>
+    <sourcelink visible="yes"/>
+    <memberdecl>
+      <classes visible="yes" title="Classes"/>
+      <variables visible="yes" title="Variables"/>
+    </memberdecl>
+    <memberdef>
+      <enums visible="yes" title="Enumerations"/>
+    </memberdef>
+  </file>
+</doxygenlayout>
